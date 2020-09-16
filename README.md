@@ -1,2 +1,2 @@
-# Travelogy
-This program saves the information about the passengers. It can be useful for Travel_Agencies to save details about their customers.  
+# Tkinter_Projects
+This repo consists of all my <b>tkinter_practice projects<b>.  
